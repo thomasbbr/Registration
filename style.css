@@ -1,0 +1,51 @@
+body{
+    background-color: #251D3A;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+    
+}
+
+h1{
+    color: aquamarine;
+}
+
+label{
+    color: aquamarine;
+}
+
+input{
+    color: #001E6C;
+}
+
+.registration{
+    background-color: #2A2550;
+    margin-top: 80px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 40px;
+}
+
+
+.Done{
+    background-color: aquamarine;
+    border-radius: 30px;
+    border: none;
+    width: 70px;
+    height: 30px;
+}
+
+.gender{
+    color: aquamarine;
+}
+
+.Done:hover{
+    background-color: aqua;
+}
+
+.KZW{
+    margin-top: 70px;
+    color: aquamarine;
+}
